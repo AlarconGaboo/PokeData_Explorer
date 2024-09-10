@@ -1,0 +1,61 @@
+alarc@YoshiminGabo MINGW64 ~/OneDrive/Escritorio/PRACTIANDO HTML/MODULO6/SESION4-M6/PokeData Explorer (master)
+$ mkdir data src
+
+alarc@YoshiminGabo MINGW64 ~/OneDrive/Escritorio/PRACTIANDO HTML/MODULO6/SESION4-M6/PokeData Explorer (master)
+$ touch data/pokemonNames.js
+touch data/apiEndpoints.js
+touch src/index.js
+
+alarc@YoshiminGabo MINGW64 ~/OneDrive/Escritorio/PRACTIANDO HTML/MODULO6/SESION4-M6/PokeData Explorer (master)
+$ npm init -y
+Wrote to C:\Users\alarc\OneDrive\Escritorio\PRACTIANDO HTML\MODULO6\SESION4-M6\PokeData Explorer\package.json:
+
+{
+  "name": "pokedata-explorer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
+
+
+
+
+alarc@YoshiminGabo MINGW64 ~/OneDrive/Escritorio/PRACTIANDO HTML/MODULO6/SESION4-M6/PokeData Explorer (master)
+$ npm install axios
+
+added 9 packages, and audited 10 packages in 1s
+
+1 package is looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+alarc@YoshiminGabo MINGW64 ~/OneDrive/Escritorio/PRACTIANDO HTML/MODULO6/SESION4-M6/PokeData Explorer (master)
+$ npm install axios
+  alarc@YoshiminGabo MINGW64 ~/OneDrive/Escritorio/PRACTIANDO HTML/MODULO6/SESION4-M6/PokeData Explorer (master)
+$ touch data/pokemonNames.js
+touch data/apiEndpoints.js
+touch src/index.js
+
+alarc@YoshiminGabo MINGW64 ~/OneDrive/Escritorio/PRACTIANDO HTML/MODULO6/SESION4-M6/PokeData Explorer (master)
+$ npm init -y
+Wrote to C:\Users\alarc\OneDrive\Escritorio\PRACTIANDO HTML\MODULO6\SESION4-M6\PokeData Explorer\package.json:
+
+{
+  "name": "pokedata-explorer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+$M6/PokeData Explorer (master)neDrive/Escritorio/PRACTIANDO HTML/MODULO6/SESION4
